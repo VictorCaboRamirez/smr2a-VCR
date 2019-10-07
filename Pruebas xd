@@ -29,3 +29,8 @@ if(isset($_GET['correo'])){
 
 </body>
 </html>
+<html>
+<body background="Penny.png">
+<p>
+</body>
+</html>

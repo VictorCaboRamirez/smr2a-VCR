@@ -3,6 +3,9 @@
 	<h1>
 		<a href="http://localhost/smr2a-VCR/catalogo.php">LISTA Clase</a>
 	</h1>
+	<Body background="Descargas/derechitoç.jpg" text="Red">
+	Trolls
+	</body>
 	</html>
 <?php
 $f=fopen('visitas.txt','a');

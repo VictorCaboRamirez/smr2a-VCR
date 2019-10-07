@@ -3,7 +3,7 @@
 	<h1>
 		<a href="http://localhost/smr2a-VCR/catalogo.php">LISTA Clase</a>
 	</h1>
-	</html>
+	
 <?php
 $f=fopen('visitas.txt','a');
 fwrite($f,date('Y-m-d H:i'));
@@ -27,5 +27,12 @@ if(isset($_GET['correo'])){
     <button>Enviar</button>
 </form>
 
+</body>
+</html>
+<html>
+<head>
+<Title> Duke Nukem </title>
+</head>
+<Body background="descargas/derechito.jpg" text="Red">
 </body>
 </html>
