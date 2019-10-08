@@ -1,11 +1,17 @@
 <?php
-function calcula($a,$b){
-	
-	echo ($a+$b).'<br>';
-	echo ($a-$b).'<br>';
-	echo ($a*$b).'<br>';
-	echo ($a/$b).'<br>';
+function calcula(){
+	$a=1;
+	$b=6;
+	$r=null;
+	 $r=$r.($a+$b).'<br>';
+	 $r=$r.($a-$b).'<br>';
+	 $r=$r.($a*$b).'<br>';
+	 $r=$r.($a/$b).'<br>';
+	 return $r;
 }
-calcula(1,6);
-
+echo calcula();
+$a= calcula();
+echo $a;
+calcula();
+calcula();
 ?>
