@@ -5,9 +5,9 @@
 	</h1>
 	
 <?php
-$f=fopen('visitas.txt','a');
+$f=fopen('visitas.txt','a');'<br>';
 fwrite($f,date('Y-m-d H:i'));
-fwrite($f,$_SERVER['REMOTE_ADDR']."\r\n");
+fwrite($f,$_SERVER['REMOTE_ADDR']."\r\n")'<br>';
 fclose($f);
 ?>
 <?php
