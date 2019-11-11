@@ -7,7 +7,7 @@
 <center>
 <head> 
 <Title> 
-geografía, o algo
+Geografía, o algo
 </Title> 
 </head> 
 <h1> Hola :v</h1>
