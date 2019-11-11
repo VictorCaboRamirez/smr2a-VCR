@@ -11,35 +11,36 @@ geografía, o algo
 </Title> 
 </head> 
 <h1> Hola :v</h1>
-<h3> Soy Sonic el erizo, y hoy me obligan a estar aquí </h3>
+<h2> Soy Sonic el erizo, y hoy me obligan a estar aquí </h2>
 
-<h6> (Así que por favor, atended, o llamad para que me saquen de aquí) </h6>
+<h3> (Así que por favor, atended, o llamad para que me saquen de aquí) </h3>
 <body>
 <body bgcolor=#CCFFFF>
-Hoy voy a mostrarte las comunidades autónomas bañadas en el <b> mar cantábrico. </b> <br> <p> <FONT SIZE=2> (Y más te vale no irte, que te arresto)</p>
+<h4>Hoy voy a mostrarte las comunidades autónomas bañadas en el <b> mar cantábrico.</h4> </b> <br> <p> <h5><FONT SIZE=1> (Y más te vale no irte, que te arresto)</p></h5>
 
-<img src= "Sonic.png" width=200 height=200>
-<table border=2px>
+'<img src= "Sonic.png" width="250" height="250">'
+<table border> 
 			<tr>
-			<td> <b>Cantabria</b> </td>
-			<td> Santander </td>
+			<td> <center><h2><b>Cantabria</b></h2></center> </td>
+			<td> <center><h4>Santander</center></h4> </td>
 			</tr>
 
 			<tr>
-			<td> <b>País Vasco</b> </td>
-			<td> Vizcaya, Guipúzcoa </td>
+			<td> <h2><b><center>País Vasco</b></h2></center></td>
+			<td> <center><h4>Vizcaya, Guipúzcoa</h4> </center></td>
 			</tr>
 			<tr>
-			<td> <b>Galicia</b> </td>
-			<td> Lugo </td>
+			<td> <b><center><h2>Galicia</b> </h2></center></td>
+			<td> <center><h4>Lugo </h4></center></td>
 			</tr>
 			<tr>
-			<td> <b>Asturias</b> </td>
-			<td> Gijón, Áviles, oriente de Asturias </td>
+			<td> <b><center><h2>Asturias</b></center></h2> </td>
+			<td> <center><h4>Gijón, Áviles, oriente de Asturias</h4></center> </td>
 			</tr>
+			
 </table>
 <p> <form>
-  <font size="2" color=#F781BE>  <b> Si queréis ver comunidades bañadas en otros mares, decidme</b></font> <u> <b><font size="2" color=#F781BE>aquí:</u> </b> <p> </font> <input type=" name="correo"><br> <button><p>Enviar</button> </p>
+  <font size="4" color=#F781BE>  <b> Si queréis ver comunidades bañadas en otros mares, decidme</b></font> <u> <b><font size="4" color=#F781BE>aquí:</u> </b> <p> </font> <input type=" name="correo"><br> <button><p>Enviar</button> </p>
 </form>
 </center>
 </table>
