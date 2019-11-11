@@ -41,6 +41,7 @@ Geografía, o algo
 </table>
 <p> <form>
   <font size="4" color=#F781BE>  <b> Si queréis ver comunidades bañadas en otros mares, decidme</b></font> <u> <b><font size="4" color=#F781BE>aquí:</u> </b> <p> </font> <input type=" name="correo"><br> <button><p>Enviar</button> </p>
+</body>
 </form>
 </center>
 </table>
